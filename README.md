@@ -1,6 +1,6 @@
 # metaplan
 
-Digitale Umsetzung der Metaplan-Methode. 
+Digitale Umsetzung der Metaplan-Methode auf den Bildungsplan Baden-Württtemberg 2016
         
 ##Nutzung:
   Klicke auf das Edit-Icon. Schreibe beliebige Thesen/Fragen/Probleme in das sich öffnedende Formular. 
